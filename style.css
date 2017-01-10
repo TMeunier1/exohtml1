@@ -1,0 +1,35 @@
+header {
+    background-color: red;
+    margin-bottom: 1.5em;
+}
+img {
+    border-radius: 1.5em;
+    margin: 0.5em;
+}
+nav {
+    border: 0.1em solid;
+    border-radius: 2em;
+    float: right;
+    height: 5em;
+    margin: 2em;
+    padding: 1em;
+    width: 70%;
+}
+aside {
+    border-right: 0.1em solid;
+    display: block;
+    float: left;
+    height: 26em;
+    padding-right: 0.5em;
+    width: 200px;
+}
+main {
+    height: 25em;
+    margin-left: 13em;
+    padding-left: 1em;
+}
+footer {
+    border-top: 0.1em solid;
+    display: inline-block;
+    padding: 1em;
+}
