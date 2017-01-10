@@ -1,5 +1,4 @@
 header {
-    background-color: red;
     margin-bottom: 1.5em;
 }
 img {
@@ -10,7 +9,7 @@ nav {
     border: 0.1em solid;
     border-radius: 2em;
     float: right;
-    height: 5em;
+    height: 8em;
     margin: 2em;
     padding: 1em;
     width: 70%;
@@ -19,7 +18,7 @@ aside {
     border-right: 0.1em solid;
     display: block;
     float: left;
-    height: 26em;
+    height: 25.01em;
     padding-right: 0.5em;
     width: 200px;
 }
@@ -30,6 +29,17 @@ main {
 }
 footer {
     border-top: 0.1em solid;
+    border-left: 0.1em solid;
     display: inline-block;
     padding: 1em;
+    width: 64em;
+}
+a:visited {
+    color:red;
+}
+a:hover {
+    color:green;
+}
+a:link {
+    color:#f95;
 }
